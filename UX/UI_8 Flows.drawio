@@ -1,0 +1,106 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="6wDMVjTHKdaUJSjGPcft">
+    <mxGraphModel dx="2054" dy="1141" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_IjFKdb1Qy0qWSFDu7te-3" edge="1" parent="1" source="_IjFKdb1Qy0qWSFDu7te-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_IjFKdb1Qy0qWSFDu7te-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_IjFKdb1Qy0qWSFDu7te-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" value="Зашёл" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_IjFKdb1Qy0qWSFDu7te-5" edge="1" parent="1" source="_IjFKdb1Qy0qWSFDu7te-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_IjFKdb1Qy0qWSFDu7te-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_IjFKdb1Qy0qWSFDu7te-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" value="Создал Путешествие" vertex="1">
+          <mxGeometry height="60" width="120" x="260" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_IjFKdb1Qy0qWSFDu7te-7" edge="1" parent="1" source="_IjFKdb1Qy0qWSFDu7te-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_IjFKdb1Qy0qWSFDu7te-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_IjFKdb1Qy0qWSFDu7te-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" value="Добавил участников" vertex="1">
+          <mxGeometry height="60" width="120" x="460" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_IjFKdb1Qy0qWSFDu7te-9" edge="1" parent="1" source="_IjFKdb1Qy0qWSFDu7te-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_IjFKdb1Qy0qWSFDu7te-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_IjFKdb1Qy0qWSFDu7te-6" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;" value="Добавил сбор" vertex="1">
+          <mxGeometry height="60" width="120" x="660" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_IjFKdb1Qy0qWSFDu7te-11" edge="1" parent="1" source="_IjFKdb1Qy0qWSFDu7te-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_IjFKdb1Qy0qWSFDu7te-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_IjFKdb1Qy0qWSFDu7te-8" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;" value="Отредактировал список участников" vertex="1">
+          <mxGeometry height="60" width="120" x="860" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_IjFKdb1Qy0qWSFDu7te-13" edge="1" parent="1" source="_IjFKdb1Qy0qWSFDu7te-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_IjFKdb1Qy0qWSFDu7te-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_IjFKdb1Qy0qWSFDu7te-10" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;" value="Скорректировал доли" vertex="1">
+          <mxGeometry height="60" width="120" x="1060" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_IjFKdb1Qy0qWSFDu7te-15" edge="1" parent="1" source="_IjFKdb1Qy0qWSFDu7te-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_IjFKdb1Qy0qWSFDu7te-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_IjFKdb1Qy0qWSFDu7te-12" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;" value="Перешёл в чат" vertex="1">
+          <mxGeometry height="60" width="120" x="1260" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_IjFKdb1Qy0qWSFDu7te-14" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;" value="Переслал новый сбор" vertex="1">
+          <mxGeometry height="60" width="120" x="1460" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_IjFKdb1Qy0qWSFDu7te-19" edge="1" parent="1" source="_IjFKdb1Qy0qWSFDu7te-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_IjFKdb1Qy0qWSFDu7te-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_IjFKdb1Qy0qWSFDu7te-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" value="Зашёл" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="_IjFKdb1Qy0qWSFDu7te-21" edge="1" parent="1" source="_IjFKdb1Qy0qWSFDu7te-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_IjFKdb1Qy0qWSFDu7te-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_IjFKdb1Qy0qWSFDu7te-18" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;" value="Пообщался в чате" vertex="1">
+          <mxGeometry height="60" width="120" x="260" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="_IjFKdb1Qy0qWSFDu7te-23" edge="1" parent="1" source="_IjFKdb1Qy0qWSFDu7te-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_IjFKdb1Qy0qWSFDu7te-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_IjFKdb1Qy0qWSFDu7te-20" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;" value="Получил в чате новый сбор" vertex="1">
+          <mxGeometry height="60" width="120" x="460" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="_IjFKdb1Qy0qWSFDu7te-25" edge="1" parent="1" source="_IjFKdb1Qy0qWSFDu7te-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_IjFKdb1Qy0qWSFDu7te-24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_IjFKdb1Qy0qWSFDu7te-22" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;" value="Перешёл на карточку нового сбора" vertex="1">
+          <mxGeometry height="60" width="120" x="660" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="_IjFKdb1Qy0qWSFDu7te-27" edge="1" parent="1" source="_IjFKdb1Qy0qWSFDu7te-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_IjFKdb1Qy0qWSFDu7te-26" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_IjFKdb1Qy0qWSFDu7te-24" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;" value="Оплатил" vertex="1">
+          <mxGeometry height="60" width="120" x="860" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="_IjFKdb1Qy0qWSFDu7te-29" edge="1" parent="1" source="_IjFKdb1Qy0qWSFDu7te-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_IjFKdb1Qy0qWSFDu7te-28" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_IjFKdb1Qy0qWSFDu7te-26" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;" value="Прошёлся по списку сборов, увидел все неоплаченные им сборы" vertex="1">
+          <mxGeometry height="60" width="180" x="1060" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="_IjFKdb1Qy0qWSFDu7te-31" edge="1" parent="1" source="_IjFKdb1Qy0qWSFDu7te-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_IjFKdb1Qy0qWSFDu7te-30" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_IjFKdb1Qy0qWSFDu7te-28" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;" value="Оплатил" vertex="1">
+          <mxGeometry height="60" width="120" x="1260" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="_IjFKdb1Qy0qWSFDu7te-30" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;" value="Вернулся в чат для продолжения обсуждения" vertex="1">
+          <mxGeometry height="60" width="170" x="1460" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="_IjFKdb1Qy0qWSFDu7te-32" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Админ&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="40" width="90" x="70" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_IjFKdb1Qy0qWSFDu7te-33" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Участник&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="60" y="260" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
